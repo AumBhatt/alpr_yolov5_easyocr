@@ -1,0 +1,7 @@
+
+train: ./alpr_dataset/train/images
+val: ./alpr_dataset/val/images
+
+nc: 1
+
+names: ['licensePlate']
