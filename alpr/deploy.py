@@ -183,6 +183,6 @@ def main(img_path=None, vid_path=None,vid_out = None):
 
 ### -------------------  calling the main function-------------------------------
 
-# main(vid_path="./test_images/vid_1.mp4",vid_out="vid_1.mp4")
 
-main(img_path="./test_images/1662797185725.jpg") ## for image
+main(img_path="./test_images/3_cars.png") ## for image
+main(img_path="./test_images/fds_4.png") ## for image
